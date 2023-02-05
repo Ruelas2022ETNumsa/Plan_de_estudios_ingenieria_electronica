@@ -31,20 +31,20 @@
 
 <strong>
   <a 
-    href=pdfs/Sistemas.pdf
+    href=https://prefing.umsa.edu.bo/wp-content/uploads/2018/12/siatemas.pdf
+  >- Sistemas</a>
+</strong> <br>
+<strong>
+  <a 
+    href=https://prefing.umsa.edu.bo/wp-content/uploads/2018/12/telecomunicaciones.pdf
+  >- Telecomunicaciones</a>
+</strong> <br>
+<strong>
+  <a 
+    href=https://prefing.umsa.edu.bo/wp-content/uploads/2018/12/control.pdf
   >- Sistemas</a>
 </strong> <br>
 
-<strong>
-  <a 
-    href=pdfs/telecomunicaciones.pdf
-  >- Telecomunicaciones</a>
-</strong> <br>
 
-<strong>
-  <a 
-    href=pdfs/control.pdf
-  >- Control</a>
-</strong> <br>
 
 
